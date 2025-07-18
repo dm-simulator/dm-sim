@@ -1,4 +1,4 @@
-beta-1.07
+beta-1.08
 
 released: 2025/7/18
 
